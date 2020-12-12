@@ -1,0 +1,5 @@
+﻿classifier,trial1_accuracy,trial1_precision,trial2_accuracy,trial2_precision,trial3_accuracy,trial3_precision
+KNN,1,1,1,1,1,1
+RF,1,1,1,1,1,1
+LR,0.969846,0.971903,0.966769,0.968314,0.959385,0.95201
+DT,1,1,1,1,0.992615,1
